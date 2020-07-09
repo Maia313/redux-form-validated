@@ -1,1 +1,1 @@
-![ReduxFomValidated](https://img.shields.io/badge/ReduxFormValidated-ff9960.svg)
+![ReduxFomValidated](https://img.shields.io/badge/ReduxFormValidated-ff0960.svg)
